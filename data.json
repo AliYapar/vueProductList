@@ -1,0 +1,31 @@
+
+{
+    "siparis": [
+        {
+        "url": "link1.html",
+        "gorsel": "https://images-na.ssl-images-amazon.com/images/I/61BG%2Bu1LcgL._AA100_.jpg",
+        "urnAd": "KitchenAid KSM150PSAQ Artisan Series 5-Qt. Stand Mixer with Pouring Shield - Aqua Sky",
+        "urnMrk": "KitchenAid",
+        "urnStok": true,
+        "urnKargo": true
+        },
+        {
+        "url": "link2.html",
+        "gorsel": "https://images-na.ssl-images-amazon.com/images/I/61BG%2Bu1LcgL._AA100_.jpg",
+        "urnAd": "Echo Spot - Black",
+        "urnMrk": "Echo Spot",
+        "urnStok": true,
+        "urnKargo": true
+        }
+    ],
+    "favori": [
+        {
+        "url": "link3.html",
+        "gorsel": "https://images-na.ssl-images-amazon.com/images/I/614CrGI0XWL._AA100_.jpg",
+        "urnAd": "DJI Mavic Air, Fly More Combo, Onyx Black",
+        "urnMrk": "Onyx",
+        "urnStok": true,
+        "urnKargo": false
+        }
+    ]
+}
